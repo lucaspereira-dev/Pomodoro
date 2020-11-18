@@ -4,12 +4,6 @@
 
     <!-- <uses-feature android:name="android.hardware." /> -->
     <uses-permission
-        android:name="android.permission.READ_EXTERNAL_STORAGE"
-        android:required="true"/>
-    <uses-permission
-        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-        android:required="true"/>
-    <uses-permission
         android:name="android.permission.VIBRATE"
         android:required="true"/>
 
